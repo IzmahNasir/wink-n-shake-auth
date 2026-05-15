@@ -1,0 +1,5 @@
+{
+  "buildCommand": "DEPLOY_TARGET=vercel vite build",
+  "installCommand": "npm install --legacy-peer-deps",
+  "framework": null
+}
